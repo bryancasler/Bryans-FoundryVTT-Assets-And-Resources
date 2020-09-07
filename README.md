@@ -44,3 +44,8 @@ Not endorsed, shared for ease of reference.
 - [Music d20 - Patreon](https://www.patreon.com/musicd20) - Music and sound effects for games
 - [Sword Coast Soundscapes - Patreon](https://www.patreon.com/swordcoastsoundscapes) - Sword Coast Soundscapes is creating Ambient Soundscapes
 - [Vindsvept - Patreon](https://www.patreon.com/Vindsvept) - Vindsvept is creating Fantasy Music
+
+## Bryan's Repositories
+- [Bryan's AWS Setup Guide for FoundryVTT](https://github.com/bryancasler/Bryans-AWS-Setup-Guide-for-FoundryVTT)
+- [Bryan's FoundryVTT Assets and Resources](https://github.com/bryancasler/Bryans-FoundryVTT-Assets-And-Resources)
+- [Bryan's Preferred Modules for FoundryVTT](https://github.com/bryancasler/Bryans-Preferred-Modules-for-FoundryVTT)
