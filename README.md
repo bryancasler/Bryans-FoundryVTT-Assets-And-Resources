@@ -1,5 +1,5 @@
 # Bryan's FoundryVTT Assets and Resources
-My personally cultivated list of FoundryVTT Assets and Resources
+My personally cultivated list of FoundryVTT Assets and Resources.
 
 ## Free Map-Pack Resources
 Not tested, shared for ease of reference.
